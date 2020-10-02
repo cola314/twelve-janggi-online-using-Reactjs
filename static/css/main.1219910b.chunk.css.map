@@ -1,0 +1,1 @@
+{"version":3,"sources":["style.css"],"names":[],"mappings":"AAKA,wBACI,UAAW,CACX,WACJ,CAEA,eACI,UAAW,CACX,WACJ","file":"main.1219910b.chunk.css","sourcesContent":[".opArea  img {\r\n    width: 40px;\r\n    height: 40px;\r\n}\r\n\r\n.myArea img {\r\n    width: 40px;\r\n    height: 40px;\r\n}\r\n\r\ndiv center img {\r\n    width: 60px;\r\n    height: 60px;\r\n}"]}
